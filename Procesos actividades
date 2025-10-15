@@ -1,1 +1,6 @@
-## Comunicació de processos: senyals de teclat i valors de retorn
+## Comunicación de procesos: señales de teclado y valores de retorno
+1. ** Eliminar versiones antiguas:** ctrl+c deterner proecos
+```bash
+echo $?
+130
+```

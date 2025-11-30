@@ -40,7 +40,7 @@ lpstat -v
 
 Acceder a:
 
-    http://localhost:631
+http://localhost:631
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Acceder a:
 
 El archivo se encuentra en:
 
-    /etc/cups/printers.conf
+/etc/cups/printers.conf
 
 Ver su contenido:
 
@@ -74,7 +74,7 @@ lp -d PDF archivo.txt
 
 El PDF generado se guarda en:
 
-    ~/PDF/
+~/PDF/
 
 ------------------------------------------------------------------------
 
@@ -82,15 +82,13 @@ El PDF generado se guarda en:
 
 Editar el archivo:
 
-    /etc/cups/cups-pdf.conf
+/etc/cups/cups-pdf.conf
 
-Buscar la línea:
+Buscar la línea: Out
 
-    Out
-
-Y poner, por ejemplo:
-
-    /home/alex/Documentos/
+Y poner, por ejemplo: /home/alex/Documentos/
 
 ------------------------------------------------------------------------
+
+
 

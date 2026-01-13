@@ -11,7 +11,8 @@ Crearemos un contenedor con la imagen base **ubuntu** y dejaremos lista una shel
 ```bash
 docker run -it --name ejercicio ubuntu /bin/bash
 ```
-![alt text](image-2.png)
+<img width="1231" height="124" alt="image" src="https://github.com/user-attachments/assets/a9fa8433-19bd-497e-9160-1b99795f6c52" />
+
 Para salir del contenedor:
 
 ```bash
@@ -23,7 +24,7 @@ Para volver a entrar:
 ```bash
 docker start -ai ejercicio
 ```
-![alt text](image-3.png)
+<img width="1231" height="48" alt="Screenshot 2026-01-13 at 08 26 14" src="https://github.com/user-attachments/assets/4d693dd2-2e09-4a27-b680-6af2740c2f20" />
 
 ---
 

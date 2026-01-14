@@ -188,6 +188,7 @@ Añadir al final:
 service apache2 start
 service mariadb start
 ```
+<img width="1359" height="825" alt="Screenshot 2026-01-14 at 19 00 21" src="https://github.com/user-attachments/assets/82031d94-b21b-42ef-a13a-9cbbb88cd34a" />
 
 Esto permite que los servicios se inicien al arrancar el contenedor.
 
@@ -207,6 +208,7 @@ Comprobar acceso:
 ```
 http://localhost:8080/blog
 ```
+<img width="1359" height="825" alt="Screenshot 2026-01-14 at 19 02 30" src="https://github.com/user-attachments/assets/4ab605c8-26ab-44bc-9468-b1034a2f6ba3" />
 
 ---
 

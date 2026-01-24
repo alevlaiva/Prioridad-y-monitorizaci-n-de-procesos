@@ -35,7 +35,7 @@ RUN apt update && apt install -y nano && apt purge --auto-remove && apt clean &&
 # Establecemos como comando por defecto de la imagen /bin/bash
 CMD /bin/bash
 ```
-![alt text](image-4.png)
+<img width="1009" height="307" alt="image" src="https://github.com/user-attachments/assets/c4456677-bbe3-4819-9a59-0b9bb94a5659" />
 El funcionamiento del `Dockerfile` está definido por sus propios comentarios.
 
 Una vez preparado, crearemos la imagen con el siguiente comando:
@@ -57,12 +57,15 @@ dentro del contenedor y comprobar que el programa **nano** está instalado:
 ```bash
 docker run -it ubuntunano
 ```
+<img width="935" height="361" alt="image" src="https://github.com/user-attachments/assets/4e5e417a-3080-4fa8-b660-13efd8c59ebc" />
+
 
 Una vez dentro del contenedor, podemos probar:
 
 ```bash
 nano prueba.txt
 ```
+<img width="935" height="157" alt="image" src="https://github.com/user-attachments/assets/9076c8a9-a217-4aae-888d-cd6e9a189516" />
 
 ---
 

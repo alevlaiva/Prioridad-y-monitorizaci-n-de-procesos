@@ -82,7 +82,7 @@ Después, abre el navegador y accede a:
 ```
 http://localhost:3000
 ```
-
+<img width="1512" height="725" alt="image" src="https://github.com/user-attachments/assets/bfbfcf26-8055-4d4a-8823-1a847a421266" />
 
 
 ---
